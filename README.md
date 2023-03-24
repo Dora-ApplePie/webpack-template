@@ -9,7 +9,7 @@ Template-webpack - это набор NPM модулей для разработ�
 Откройте терминал и сделайте клон проекта к себе на компьютер:
 
 ```
-git clone https://github.com/injashkin/npm-for-frontend.git new-project-name
+git clone https://github.com/Dora-ApplePie/npm-for-frontend.git new-project-name
 ```
 
 вместо `new-project-name` вы можете указать любое другое имя проекта
